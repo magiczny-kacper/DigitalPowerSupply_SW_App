@@ -64,8 +64,6 @@ void Error_Handler(void);
 #define Vin_FB_GPIO_Port GPIOA
 #define Vout_FB_Pin GPIO_PIN_1
 #define Vout_FB_GPIO_Port GPIOA
-#define Iin_FB_Pin GPIO_PIN_2
-#define Iin_FB_GPIO_Port GPIOA
 #define Iout_FB_Pin GPIO_PIN_3
 #define Iout_FB_GPIO_Port GPIOA
 #define FP_OK_Pin GPIO_PIN_4
